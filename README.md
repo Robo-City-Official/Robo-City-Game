@@ -1,4 +1,4 @@
-# Robo-City-Game
+# Robo City
 This is a game i have been working on with my freinds (who dont have a github account) but they have helped me so much i will leave a link to there scratch accounts
 LoganScratch100:https://scratch.mit.edu/users/LoganScratch100
 LeoScratch100:https://scratch.mit.edu/users/LeoScratch100
